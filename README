@@ -38,7 +38,7 @@ O programa solicita ao usuário que insira sua idade e, em seguida, verifica se 
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/Criatina1607/nome-do-repositorio.git
+   git clone https://github.com/Criatina1607/Verificacao_de_Maioridade.git
 2. Navegue até o diretório do projeto:
   cd nome-do-repositorio
 3. Execute o programa:
