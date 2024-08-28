@@ -1,0 +1,49 @@
+# Projeto: Verificação de Maioridade
+
+Este projeto é um programa simples em Python que verifica se uma pessoa é maior de idade (18 anos ou mais) com base na idade fornecida pelo usuário. O objetivo é demonstrar o uso de estruturas condicionais em Python para tomada de decisões.
+
+## Índice
+
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Executar o Projeto](#como-executar-o-projeto)
+- [Exemplos de Uso](#exemplos-de-uso)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
+- [Contato](#contato)
+
+## Descrição
+
+O programa solicita ao usuário que insira sua idade e, em seguida, verifica se o usuário é maior de idade (18 anos ou mais). Dependendo da idade fornecida, o programa exibe uma mensagem informando se o usuário é maior ou menor de idade.
+
+## Funcionalidades
+
+- Solicita ao usuário que insira sua idade.
+- Verifica se a idade inserida é maior ou igual a 18 anos.
+- Exibe uma mensagem indicando se o usuário é maior ou menor de idade.
+
+## Tecnologias Utilizadas
+
+- **Linguagem de Programação:** Python 3.x
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+
+- Python 3.x instalado.
+
+### Passos para Execução
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/Criatina1607/nome-do-repositorio.git
+2. Navegue até o diretório do projeto:
+  cd nome-do-repositorio
+3. Execute o programa:
+  python3 nome_do_arquivo.py
+4. Digite sua idade quando solicitado.
+
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
